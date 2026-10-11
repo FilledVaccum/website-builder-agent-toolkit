@@ -20,3 +20,6 @@ credentials*.json
 *.log
 *.tmp
 node_modules/
+
+# Local backup of original unsplit files
+_archive-originals/

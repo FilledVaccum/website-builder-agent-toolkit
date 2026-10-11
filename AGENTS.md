@@ -20,4 +20,3 @@ This directory is a reference library, not a codebase. Use it to pick skills, Gi
 - Each `catalog/stages/NN-*.md` ends with a "💰 Pricing" section (free tier → paid) for that stage's paid services; FOSS tools are omitted.
 - Star counts and prices are as of 2026-10-11. Re-check vendor pages before committing to a paid plan.
 - Catalog columns: Name | URL | Official? | ★ | Last push | Purpose | Free notes. Skills install via `npx skills add owner/repo` or `/plugin marketplace add owner/repo`.
-- Do not edit `_archive-originals/`.

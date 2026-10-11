@@ -14,7 +14,6 @@ Curated skills, GitHub repos and MCP servers for building a website end to end w
 | `pricing/pricing.md` | Free vs paid, limits, cheapest launch stack | Cost / commercial-use questions |
 | `seo/` | SEO + GEO (AI search) tools, install notes | SEO / `llms.txt` / schema work |
 | `reference/` | Sources and registries used | Finding more |
-| `_archive-originals/` | Untouched original files (`report.md`, `free-catalog.md`, `pricing.md`) | Never needed; kept as backup |
 
 ## Stage map (website lifecycle)
 
