@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Claude Code local/private settings
+.claude/
+
+# Secrets & env
+.env
+.env.*
+*.pem
+*.key
+*.p12
+secrets/
+credentials*.json
+
+# Logs / temp
+*.log
+*.tmp
+node_modules/
