@@ -11,6 +11,7 @@ This directory is a reference library, not a codebase. Use it to pick skills, Gi
 5. Need rationale/detail? `guides/NN-*.md`.
 6. Anything about cost, free-tier limits or commercial use? `pricing/pricing.md`.
 7. SEO / GEO / `llms.txt`? `seo/README.md`. Competing for AI recommendations? Measure with `seo/ai-visibility-gap-audit.md`, act with `seo/ai-recommendation-playbook.md`.
+8. Social video / weekly trend content? `marketing/claude-head-of-content-trends.md`.
 
 ## Rules
 
