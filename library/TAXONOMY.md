@@ -53,7 +53,7 @@ The numbers 01–19 match the files in [`catalog/stages/`](../catalog/stages/).
 Pick the specific jobs. Add new ones as needed, then list them here.
 
 - **Planning & research:** `spec-writing`, `task-breakdown`, `competitor-research`, `web-scraping`, `trend-research`
-- **Design & build:** `ui-design`, `design-system`, `code-generation`, `docs-grounding`, `site-building`, `figma-templates`, `design-inspiration`, `ui-animation-reference`, `icon-search`, `font-identification`, `background-assets`, `networking`, `copy-editing`, `mobile-app-development`, `backlink-building`, `audience-building`, `creator-partnerships`, `cold-outreach`, `directory-submission`, `browser-automation`
+- **Design & build:** `ui-design`, `design-system`, `code-generation`, `docs-grounding`, `site-building`, `figma-templates`, `design-inspiration`, `ui-animation-reference`, `icon-search`, `font-identification`, `background-assets`, `networking`, `copy-editing`, `mobile-app-development`, `backlink-building`, `audience-building`, `lead-generation`, `creator-partnerships`, `cold-outreach`, `directory-submission`, `browser-automation`
 - **SEO / GEO:** `seo-audit`, `technical-seo`, `schema-markup`, `keyword-research`, `geo-audit`, `citation-tracking`, `ai-crawler-access`, `content-optimization`, `outreach`, `measurement`
 - **Video:** `video-editing`, `rough-cut`, `pacing`, `b-roll`, `captioning`, `audio-mixing`, `music-scoring`, `sound-design`, `motion-graphics`, `video-export`, `scriptwriting`
 - **Ops:** `testing`, `monitoring`, `deployment`, `security-review`, `automation`
@@ -74,7 +74,7 @@ Use three separate fields:
 
 - **`agent`** (which AI host runs it): `claude-code`, `claude-ai`, `cursor`, `codex`, `copilot`, `any-agent`
 - **`software`** (other tools it drives): e.g. `davinci-resolve`, `figma`, `framer`, `bb-browser`, `apify`, `google-workspace`, `expo`, `supabase`, `stripe`, `github`, `grok-bot`, `nodejs`, `hyperframes`, `playwright`, `chrome`, `remotion`, `ffmpeg`, `google-search-console`, `ga4`, `bing`, `cloudflare`, `epidemic-sound`, `ffmpeg`, `virlo`, `tiktok-creative-center`
-- **`channel`** (where the output is published or surfaced): `youtube`, `tiktok`, `instagram-reels`, `google-search`, `google-ai-overviews`, `chatgpt`, `perplexity`, `gemini`, `bing`, `website`
+- **`channel`** (where the output is published or surfaced): `youtube`, `tiktok`, `linkedin`, `instagram-reels`, `google-search`, `google-ai-overviews`, `chatgpt`, `perplexity`, `gemini`, `bing`, `website`
 
 ## 7. `cost`: what you pay to use it as intended
 
@@ -127,3 +127,4 @@ Also set `commercial-use`: `yes`, `no`, or `ask-author`.
 | 2026-10-23 | Added software `grok-bot`. | seo-agent-team |
 | 2026-10-23 | Added software `nodejs`. | cloudflare-security-audit-skill |
 | 2026-10-23 | Added software `hyperframes`. | code-rendered-video-studio |
+| 2026-10-23 | Added task `lead-generation`; channel `linkedin`. | linkedin-organic-playbook |
