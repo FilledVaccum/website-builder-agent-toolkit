@@ -73,7 +73,7 @@ Leave it empty (`[]`) when it doesn't apply.
 Use three separate fields:
 
 - **`agent`** (which AI host runs it): `claude-code`, `claude-ai`, `cursor`, `codex`, `copilot`, `any-agent`
-- **`software`** (other tools it drives): e.g. `davinci-resolve`, `figma`, `framer`, `bb-browser`, `apify`, `google-workspace`, `expo`, `supabase`, `stripe`, `github`, `grok-bot`, `playwright`, `chrome`, `remotion`, `ffmpeg`, `google-search-console`, `ga4`, `bing`, `cloudflare`, `epidemic-sound`, `ffmpeg`, `virlo`, `tiktok-creative-center`
+- **`software`** (other tools it drives): e.g. `davinci-resolve`, `figma`, `framer`, `bb-browser`, `apify`, `google-workspace`, `expo`, `supabase`, `stripe`, `github`, `grok-bot`, `nodejs`, `playwright`, `chrome`, `remotion`, `ffmpeg`, `google-search-console`, `ga4`, `bing`, `cloudflare`, `epidemic-sound`, `ffmpeg`, `virlo`, `tiktok-creative-center`
 - **`channel`** (where the output is published or surfaced): `youtube`, `tiktok`, `instagram-reels`, `google-search`, `google-ai-overviews`, `chatgpt`, `perplexity`, `gemini`, `bing`, `website`
 
 ## 7. `cost`: what you pay to use it as intended
@@ -125,3 +125,4 @@ Also set `commercial-use`: `yes`, `no`, or `ask-author`.
 | 2026-10-23 | Added tasks `audience-building`, `creator-partnerships`, `cold-outreach`; software `apify`. | audience-without-personal-brand |
 | 2026-10-23 | Added stage `22-business-operations`; tasks `copy-editing`, `mobile-app-development`; software `google-workspace`, `expo`, `supabase`, `stripe`, `github`. | claude-repos-playbook (12 cards) |
 | 2026-10-23 | Added software `grok-bot`. | seo-agent-team |
+| 2026-10-23 | Added software `nodejs`. | cloudflare-security-audit-skill |

@@ -6,7 +6,7 @@
 
 | # | Name | URL | Official? | ★ | Last push | Purpose | Free notes |
 |---|---|---|---|---|---|---|---|
-| 1 | **Cloudflare security-audit-skill** | https://github.com/cloudflare/security-audit-skill | Official (Cloudflare) | 28.2k | 2026-09-14 | Multi-phase security audit with independently verified findings | FOSS |
+| 1 | **Cloudflare security-audit-skill** | https://github.com/cloudflare/security-audit-skill | Official (Cloudflare) | 40.4k | 2026-09-14 | Multi-phase security audit with independently verified findings | FOSS |
 | 2 | **Trail of Bits skills** | https://github.com/trailofbits/skills | Official (Trail of Bits) | 7.5k | 2026-10-09 | Vuln detection & audit workflows | FOSS |
 | 3 | **security-guidance plugin** | https://github.com/anthropics/claude-code/tree/main/plugins/security-guidance | Official | 150.2k | 2026-10-10 | Warns on risky patterns while editing | FOSS |
 | 4 | **security-and-hardening** | https://github.com/addyosmani/agent-skills | Community | 104.8k | 2026-10-10 | OWASP Top 10, secrets, auth patterns | FOSS |
