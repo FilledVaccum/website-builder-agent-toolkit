@@ -10,7 +10,7 @@ This directory is a reference library, not a codebase. Use it to pick skills, Gi
 4. Need install commands? `catalog/01-quick-install-starter-set.md`.
 5. Need rationale/detail? `guides/NN-*.md`.
 6. Anything about cost, free-tier limits or commercial use? `pricing/pricing.md`.
-7. SEO / GEO / `llms.txt`? `seo/README.md`. Competing for AI recommendations? `seo/ai-visibility-gap-audit.md`.
+7. SEO / GEO / `llms.txt`? `seo/README.md`. Competing for AI recommendations? Measure with `seo/ai-visibility-gap-audit.md`, act with `seo/ai-recommendation-playbook.md`.
 
 ## Rules
 

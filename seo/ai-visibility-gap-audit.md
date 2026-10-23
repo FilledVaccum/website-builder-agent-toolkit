@@ -6,6 +6,7 @@ A repeatable audit that shows **where AI assistants recommend competitors instea
 - **Engines:** ChatGPT, Claude, Gemini, Google AI Mode. Perplexity and Copilot are optional.
 - **Cost:** free. It's mostly manual work. The free tools are listed in [Tooling](#tooling-free).
 - **Relation to [free-seo-geo](free-seo-geo/SKILL.md):** that skill fixes *your site*. This playbook measures *the market* and decides which fixes matter. Run this first, then use free-seo-geo for steps 9 and 12.
+- **Levers to pull after the audit** (engine differences, writing rules, mention tiers, YouTube, bot checks, GA4 measurement): [ai-recommendation-playbook.md](ai-recommendation-playbook.md).
 
 > **Core rule:** measure before you write. Most wasted GEO work is new content written for a gap that turned out to be technical, a page that was out of date, or a third-party problem.
 
