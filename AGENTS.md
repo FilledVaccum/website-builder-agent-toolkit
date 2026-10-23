@@ -25,3 +25,7 @@ This directory is a reference library, not a codebase. Use it to pick skills, Gi
 ## Library intake (whenever the user shares a new repo, skill, tool, guide or thread)
 
 Follow `library/README.md`: inspect it, classify it on every dimension in `library/TAXONOMY.md` (add new tag values or dimensions when nothing fits, and log them in the changelog), write a card in `library/items/`, place it (stage catalog row or a cleaned write-up in `seo/`, `marketing/` etc.), then run `python3 library/scripts/build_index.py`. Check a card's `commercial-use`, `cost` and `requires` before recommending the item. Don't push until the user asks.
+
+## Content rule: free only
+
+When polishing content the user provides, **omit paid products, plans, packages, vendor sales links and paid-link tactics**. Keep the free, general findings and actions. Say in the reply that paid items were omitted.
