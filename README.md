@@ -7,7 +7,7 @@ Curated skills, GitHub repos and MCP servers for building a website end to end w
 | Path | What's in it | Use it when |
 |---|---|---|
 | `AGENTS.md` / `CLAUDE.md` | Routing rules for the coding agent | Always read first |
-| `playbook/` | Principles, top pick per stage, minimal + indie stacks, gotchas | Deciding *what* to use |
+| `playbook/` | Principles, top pick per stage, minimal + indie stacks, gotchas, 10 Claude repos that earn their place | Deciding *what* to use |
 | `catalog/stages/NN-*.md` | Per-stage tables: A) Skills, B) Repos, C) Free MCPs (name, URL, ★, last push) | Looking up tools for one stage |
 | `catalog/01-quick-install-starter-set.md` | Best skill + repo + MCP per stage, with install commands | Setting up a project fast |
 | `guides/NN-*.md` | Narrative per-stage detail, plus boilerplates, AI builders, meta-resources | Needing more context than the table |
