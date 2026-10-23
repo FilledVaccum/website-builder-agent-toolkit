@@ -38,6 +38,21 @@
 | 6 | **21st.dev Magic MCP** | https://github.com/21st-dev/magic-mcp | Official | 6.0k | 2026-09-09 | Search 10k+ components, generate UI | Free Hobby (limited copies/day) |
 | 7 | **Canva MCP** | https://www.canva.dev/docs/mcp/ | Official | — | — | Generate/edit Canva designs | Canva Free account |
 
+### D. Design inspiration, templates & AI builders (websites/SaaS; checked 2026-10-23)
+
+| # | Name | URL | Type | Cost | Purpose |
+|---|---|---|---|---|---|
+| 1 | **Modulify** | https://modulify.ai | AI site builder | Free → $20/$40 mo | Prompt → site with CMS, DB, hosting |
+| 2 | **Landdding** | https://landdding.com | Gallery | Free / PRO $4 mo | Daily landing-page designs |
+| 3 | **Recent (ex-Godly)** | https://recent.design | Gallery | Unknown | Award-level site inspiration |
+| 4 | **Footer Design** | https://www.footer.design | Gallery | Free | Footer patterns |
+| 5 | **60fps** | https://60fps.design | Gallery | Unknown | Mobile/web UI animation details |
+| 6 | **Motion** | https://www.motionin.design | Prompt library | $9 mo / $99 lifetime | Animated sections as agent prompts |
+| 7 | **Wonderlist** | https://wonderlist.design | Figma kit | $329–$999 once | 127 full website designs |
+| 8 | **on.design** | https://on.design | Community | Invite-only | Designer network |
+
+More detail: [design/ai-design-resources.md](../../design/ai-design-resources.md). Tagged cards: [library](../../library/INDEX.md).
+
 ## 💰 Pricing: paid services in this stage (free tier → paid)
 
 *Checked 2026-10-11 on vendor pricing pages; USD. FOSS tools are omitted (they cost $0). Recheck before buying. Full detail: [pricing](../../pricing/pricing.md).*

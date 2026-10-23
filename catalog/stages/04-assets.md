@@ -30,6 +30,16 @@
 | 2 | **Canva MCP** | https://www.canva.dev/docs/mcp/ | Official | — | — | Social/OG images, branded graphics | Canva Free |
 | 3 | **Excalidraw MCP** | https://github.com/yctimlin/mcp_excalidraw | Community | 2.5k | 2026-10-09 | Diagrams and illustrations | FOSS |
 
+### D. Reference libraries & asset packs (checked 2026-10-23)
+
+| # | Name | URL | Type | Cost | Shippable? |
+|---|---|---|---|---|---|
+| 1 | **Iconly** | https://iconly.design | Icon inspiration (2,400+) | First 30 free, Pro $39/yr | No. Reference only; icons belong to their owners |
+| 2 | **Font In Logo** | https://www.fontinlogo.com | Brand logo fonts | Free preview, Pro $9 mo / $29 yr | Identify only; check each font's licence |
+| 3 | **Backgrounds Supply** | https://www.backgrounds.supply | Backgrounds, gradients (1,273) | One-time, lifetime | Yes, commercial use per FAQ (price not captured) |
+
+More detail: [design/ai-design-resources.md](../../design/ai-design-resources.md).
+
 ## 💰 Pricing: paid services in this stage (free tier → paid)
 
 *Checked 2026-10-11 on vendor pricing pages; USD. FOSS tools are omitted (they cost $0). Recheck before buying. Full detail: [pricing](../../pricing/pricing.md).*
