@@ -89,7 +89,7 @@ Use three separate fields:
 
 ## 8. `license`
 
-The SPDX id (`mit`, `apache-2.0`, `cc-by-4.0`, `cc-by-nc-4.0`, …), or `proprietary` (all rights reserved or site terms) or `unknown`.
+The SPDX id (`mit`, `apache-2.0`, `cc-by-4.0`, `cc-by-nc-4.0`, …), or `proprietary` (all rights reserved or site terms), `custom-see-repo` (non-standard licence; read the terms) or `unknown`.
 
 Also set `commercial-use`: `yes`, `no`, or `ask-author`.
 
@@ -128,3 +128,4 @@ Also set `commercial-use`: `yes`, `no`, or `ask-author`.
 | 2026-10-23 | Added software `nodejs`. | cloudflare-security-audit-skill |
 | 2026-10-23 | Added software `hyperframes`. | code-rendered-video-studio |
 | 2026-10-23 | Added task `lead-generation`; channel `linkedin`. | linkedin-organic-playbook |
+| 2026-10-24 | No new tags (used existing video/motion tags; license value `custom-see-repo` for non-SPDX custom licences). | claude-production-studio (11 cards) |
