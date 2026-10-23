@@ -13,6 +13,7 @@ Curated skills, GitHub repos and MCP servers for building a website end to end w
 | `guides/NN-*.md` | Narrative per-stage detail, plus boilerplates, AI builders, meta-resources | Needing more context than the table |
 | `pricing/pricing.md` | Free vs paid, limits, cheapest launch stack | Cost / commercial-use questions |
 | `seo/` | SEO + GEO (AI search) tools, install notes | SEO / `llms.txt` / schema work |
+| `library/` | Every shared resource as a tagged card (type, stage, task, content, platform, cost, license, trust); generated `INDEX.md` with by-tag views | Finding or filing any tool, repo, skill or guide |
 | `marketing/` | Post-launch promotion: Claude Project that picks weekly TikTok/Reels trends and writes shot lists | Social video content |
 | `reference/` | Sources and registries used | Finding more |
 

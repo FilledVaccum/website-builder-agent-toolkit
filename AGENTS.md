@@ -21,3 +21,7 @@ This directory is a reference library, not a codebase. Use it to pick skills, Gi
 - Each `catalog/stages/NN-*.md` ends with a "💰 Pricing" section (free tier → paid) for that stage's paid services; FOSS tools are omitted.
 - Star counts and prices are as of 2026-10-11. Re-check vendor pages before committing to a paid plan.
 - Catalog columns: Name | URL | Official? | ★ | Last push | Purpose | Free notes. Skills install via `npx skills add owner/repo` or `/plugin marketplace add owner/repo`.
+
+## Library intake (whenever the user shares a new repo, skill, tool, guide or thread)
+
+Follow `library/README.md`: inspect it, classify it on every dimension in `library/TAXONOMY.md` (add new tag values or dimensions when nothing fits, and log them in the changelog), write a card in `library/items/`, place it (stage catalog row or a cleaned write-up in `seo/`, `marketing/` etc.), then run `python3 library/scripts/build_index.py`. Check a card's `commercial-use`, `cost` and `requires` before recommending the item. Don't push until the user asks.
