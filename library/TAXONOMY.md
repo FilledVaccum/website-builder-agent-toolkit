@@ -52,7 +52,7 @@ The numbers 01–19 match the files in [`catalog/stages/`](../catalog/stages/).
 Pick the specific jobs. Add new ones as needed, then list them here.
 
 - **Planning & research:** `spec-writing`, `task-breakdown`, `competitor-research`, `web-scraping`, `trend-research`
-- **Design & build:** `ui-design`, `design-system`, `code-generation`, `docs-grounding`, `site-building`, `figma-templates`, `design-inspiration`, `ui-animation-reference`, `icon-search`, `font-identification`, `background-assets`, `networking`
+- **Design & build:** `ui-design`, `design-system`, `code-generation`, `docs-grounding`, `site-building`, `figma-templates`, `design-inspiration`, `ui-animation-reference`, `icon-search`, `font-identification`, `background-assets`, `networking`, `backlink-building`, `directory-submission`, `browser-automation`
 - **SEO / GEO:** `seo-audit`, `technical-seo`, `schema-markup`, `keyword-research`, `geo-audit`, `citation-tracking`, `ai-crawler-access`, `content-optimization`, `outreach`, `measurement`
 - **Video:** `video-editing`, `rough-cut`, `pacing`, `b-roll`, `captioning`, `audio-mixing`, `music-scoring`, `sound-design`, `motion-graphics`, `video-export`, `scriptwriting`
 - **Ops:** `testing`, `monitoring`, `deployment`, `security-review`, `automation`
@@ -72,7 +72,7 @@ Leave it empty (`[]`) when it doesn't apply.
 Use three separate fields:
 
 - **`agent`** (which AI host runs it): `claude-code`, `claude-ai`, `cursor`, `codex`, `copilot`, `any-agent`
-- **`software`** (other tools it drives): e.g. `davinci-resolve`, `figma`, `framer`, `remotion`, `ffmpeg`, `google-search-console`, `ga4`, `bing`, `cloudflare`, `epidemic-sound`, `ffmpeg`, `virlo`, `tiktok-creative-center`
+- **`software`** (other tools it drives): e.g. `davinci-resolve`, `figma`, `framer`, `bb-browser`, `playwright`, `chrome`, `remotion`, `ffmpeg`, `google-search-console`, `ga4`, `bing`, `cloudflare`, `epidemic-sound`, `ffmpeg`, `virlo`, `tiktok-creative-center`
 - **`channel`** (where the output is published or surfaced): `youtube`, `tiktok`, `instagram-reels`, `google-search`, `google-ai-overviews`, `chatgpt`, `perplexity`, `gemini`, `bing`, `website`
 
 ## 7. `cost`: what you pay to use it as intended
@@ -120,3 +120,4 @@ Also set `commercial-use`: `yes`, `no`, or `ask-author`.
 |---|---|---|
 | 2026-10-23 | Initial taxonomy: 11 tag dimensions + metadata. Added stages `20-content-production` and `21-marketing-distribution`, video tasks, and software `virlo`, `tiktok-creative-center`. | video-editor-skills, claude-head-of-content-trends |
 | 2026-10-23 | Added types `inspiration-gallery`, `asset-library`, `ui-kit`, `community`; tasks `site-building`, `figma-templates`, `design-inspiration`, `ui-animation-reference`, `icon-search`, `font-identification`, `background-assets`, `networking`; cost `unknown`; software `framer`. | 11 design-resource sites |
+| 2026-10-23 | Added tasks `backlink-building`, `directory-submission`, `browser-automation`; software `bb-browser`, `playwright`, `chrome`. | DRsubmission |

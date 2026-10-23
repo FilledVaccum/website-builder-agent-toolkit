@@ -34,6 +34,12 @@
 | 4 | **search-console-mcp** | https://github.com/saurabhsharma2u/search-console-mcp | Community | 300 | 2026-09-02 | GSC + Bing Webmaster + GA in one server | FOSS |
 | 5 | **Bing Webmaster MCP** | https://github.com/isiahw1/mcp-server-bing-webmaster | Community | 28 | 2026-02-10 | Bing Webmaster API (no official Bing MCP exists) | FOSS; Bing WMT free; low stars, only option |
 
+### D. Link-building automation (use with caution)
+
+| # | Name | URL | Official? | ★ | Last push | Purpose | Notes |
+|---|---|---|---|---|---|---|---|
+| 1 | **DRsubmission** (Backlink Pilot fork) | https://github.com/Mimimiraclez/DRsubmission | Community | 20 | 2026-10-19 | Auto-fills 82 directory submit forms in real Chrome | MIT. Self-reports 0 verified listings; half the list is generic directories. See [write-up](../../marketing/backlink-directory-submission.md) |
+
 ## 💰 Pricing: paid services in this stage (free tier → paid)
 
 *Checked 2026-10-11 on vendor pricing pages; USD. FOSS tools are omitted (they cost $0). Recheck before buying. Full detail: [pricing](../../pricing/pricing.md).*
