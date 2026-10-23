@@ -4,6 +4,7 @@ How to get *directed* videos instead of "the same demo" (big centered text, grad
 
 - **Best for:** product films, UI motion, data stories, typography, diagrams, launch explainers.
 - **Not for:** photoreal scenes, complex characters, organic movement (use footage or generated video).
+- **Hands-on build:** [Remotion launch-clip tutorial](remotion-launch-clip-tutorial.md).
 - **Related:** [HyperFrames and Remotion](../playbook/06-claude-repos-that-earn-their-place.md), [video-editor-skills](../library/items/video-editor-skills.md) (editing real footage), [weekly trend picks](../marketing/claude-head-of-content-trends.md) (what to film).
 
 ## The core idea
