@@ -3,6 +3,7 @@
 - **Measure AI visibility vs competitors first:** [ai-visibility-gap-audit.md](ai-visibility-gap-audit.md) (14-step GEO gap audit: prompts → gaps → root cause → fix → rerun).
 - **Full startup SEO checklist (domain → technical → indexing → blog → backlinks → social → AI search):** [startup-seo-playbook.md](startup-seo-playbook.md).
 - **Run SEO with a team of narrow AI agents (prompts, rails, schedules):** [seo-agent-team.md](seo-agent-team.md).
+- **Can AI crawlers reach and read you? (bots, CDN blocks, server-rendered HTML, schema, llms.txt):** [technical-aeo-playbook.md](technical-aeo-playbook.md).
 - **What predicts ChatGPT citations (study summary, free actions):** [chatgpt-citation-factors.md](chatgpt-citation-factors.md).
 - **Get AI to recommend you (levers: engines, writing, mentions, bots, measurement):** [ai-recommendation-playbook.md](ai-recommendation-playbook.md).
 - **Then fix the site (free tools only; inventory first):** [free-seo-geo/SKILL.md](free-seo-geo/SKILL.md).
